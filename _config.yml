@@ -1,0 +1,14 @@
+layout_spectrum: 0.832675
+typography_spectrum: 0.9522269
+color:
+  saturation: 0.9407935
+  lightness: 0.1239401
+  brandStrength: 0.3540955
+  rhythmicContrast: 0.1844208
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: justme
