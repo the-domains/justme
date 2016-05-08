@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[justme]]></title>
+        <description><![CDATA[justme]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 08 May 2016 21:14:58 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Me and Dad - Rick and Joan's Place]]></title>
+            <description><![CDATA[<article><h1>Me and Dad - Rick and Joan's Place</h1><p>http://www.one-earth.community/rickandjoan/me-and-dad/</p><img src="http://www.one-earth.community/rickandjoan/wp-content/uploads/sites/11/2015/08/image21.jpg"></article>]]></description>
+            <link>http://www.one-earth.community/rickandjoan/me-and-dad/</link>
+            <guid isPermaLink="false">ff69e086-e497-4cfe-a3dc-b354354a3cef</guid>
+            <pubDate>Sun, 08 May 2016 21:14:27 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
