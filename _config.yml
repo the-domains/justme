@@ -1,3 +1,7 @@
+name: justme
+favicon: null
+layout_spectrum: 0.33932
+typography_spectrum: 0.9522269
 collections:
   - index:
       path: /
@@ -10,17 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.9522269
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.9407935
-  brandStrength: 0.3540955
-  rhythmicContrast: 0.1844208
   brandColors:
     - '#FF6700'
     - '#EBEBEB'
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
+  brandStrength: 0.3540955
   lightness: 0.1239401
-layout_spectrum: 1
-name: justme
+  saturation: 0.9407935
+  rhythmicContrast: 0.1844208
+purpose: []
