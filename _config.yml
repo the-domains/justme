@@ -1,4 +1,5 @@
-layout_spectrum: 0.6858217
+favicon: null
+name: justme
 opengraph:
   image: null
   type: null
@@ -19,7 +20,7 @@ purpose: []
 color:
   saturation: 0.8125
   brandStrength: 0.6535982
-  lightness: 0.3125
+  lightness: 0.829753
   brandColors:
     - '#FF6700'
     - '#EBEBEB'
@@ -28,13 +29,12 @@ color:
     - '#004E98'
   rhythmicContrast: 0.1844208
 typography_spectrum: 0.9522269
-cta:
-  bucket: null
-  version: null
-  domain: null
+layout_spectrum: 0.6858217
 analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
-name: justme
+cta:
+  bucket: null
+  version: null
+  domain: null
