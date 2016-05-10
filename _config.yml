@@ -1,7 +1,5 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+favicon: null
+name: justme
 opengraph:
   image: null
   type: null
@@ -31,10 +29,12 @@ color:
     - '#CB0672'
   rhythmicContrast: 0.1844208
 typography_spectrum: 0.9522269
-layout_spectrum: 0
 cta:
   bucket: null
   version: null
   domain: null
-favicon: null
-name: justme
+layout_spectrum: 0.2819549
+analytics:
+  twitter: null
+  google: null
+  facebook: null
