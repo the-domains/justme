@@ -1,40 +1,18 @@
-favicon: null
-cta:
-  bucket: null
-  version: null
-  domain: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-purpose: []
+analytics: {}
 color:
-  saturation: 0.5902256
-  brandStrength: 0
-  rhythmicContrast: 0.1844208
   brandColors:
     - '#081422'
     - '#FFFFFF'
     - '#C1AF9B'
     - '#796F65'
     - '#CB0672'
+  brandStrength: 0
   lightness: 0.8834586
-typography_spectrum: 0.9522269
-layout_spectrum: 0.1874329
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+  rhythmicContrast: 0.1844208
+  saturation: 0.5902256
+cta: {}
+layout_spectrum: 0.872122
 name: justme
+opengraph: {}
+purpose: []
+typography_spectrum: 0.9522269
