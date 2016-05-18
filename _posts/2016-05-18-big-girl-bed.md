@@ -6,10 +6,12 @@ isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: "with sister soon to arrive the move from crib to \"big girl room\" went off without a glitch \uD83D\uDE07"
-datePublished: '2016-05-18T22:29:01.284Z'
-dateModified: '2016-05-18T22:28:28.804Z'
+datePublished: '2016-05-18T22:29:48.845Z'
+dateModified: '2016-05-18T22:29:08.884Z'
 title: big girl bed
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-05-18-big-girl-bed.md
 authors: []
 publisher: null
