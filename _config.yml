@@ -1,4 +1,3 @@
-name: justme
 purpose: []
 collections:
   - index:
@@ -15,7 +14,7 @@ collections:
 opengraph: {}
 color:
   saturation: 0.5902256
-  brandStrength: 0
+  brandStrength: 0.3410311
   lightness: 0.3238453
   brandColors:
     - '#081422'
@@ -25,6 +24,7 @@ color:
     - '#CB0672'
   rhythmicContrast: 0.1844208
 typography_spectrum: 0.9522269
+layout_spectrum: 0
 cta: {}
 analytics: {}
-layout_spectrum: 0
+name: justme
