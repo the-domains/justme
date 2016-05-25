@@ -15,16 +15,16 @@ collections:
 opengraph: {}
 color:
   saturation: 0.5902256
-  brandStrength: 0.3410311
+  brandStrength: 0.7599356
   lightness: 0.5580022
   brandColors:
-    - '#081422'
-    - '#FFFFFF'
-    - '#C1AF9B'
-    - '#796F65'
-    - '#CB0672'
+    - '#020101'
+    - '#FDC300'
+    - '#E3470F'
+    - '#633F41'
+    - '#3B8B56'
   rhythmicContrast: 0.1745435
 typography_spectrum: 0.9522269
-cta: {}
 layout_spectrum: 0
+cta: {}
 analytics: {}
