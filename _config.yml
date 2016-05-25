@@ -1,4 +1,4 @@
-name: justme
+cta: {}
 purpose: []
 collections:
   - index:
@@ -23,8 +23,8 @@ color:
     - '#C1AF9B'
     - '#796F65'
     - '#CB0672'
-  rhythmicContrast: 0.6009667
+  rhythmicContrast: 0.1745435
 typography_spectrum: 0.9522269
 layout_spectrum: 0
 analytics: {}
-cta: {}
+name: justme
