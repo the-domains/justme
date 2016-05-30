@@ -14,17 +14,17 @@ collections:
       path: '/:title/'
 opengraph: {}
 color:
-  saturation: 0.5902256
-  brandStrength: 0
-  lightness: 0.5580022
+  saturation: 0.8048818502575159
+  brandStrength: 0.0750075492542237
+  lightness: 0.20188207644969225
   brandColors:
-    - '#020101'
-    - '#FDC300'
-    - '#E3470F'
-    - '#633F41'
-    - '#3B8B56'
-  rhythmicContrast: 0.1745435
-typography_spectrum: 0.9522269
-layout_spectrum: 0
+    - '#468966'
+    - '#FFF0A5'
+    - '#FFB03B'
+    - '#B64926'
+    - '#8E2800'
+  rhythmicContrast: 0.8725461619906127
+typography_spectrum: 0.025081219617277384
+layout_spectrum: 0.21614547609351575
 cta: {}
 name: justme
