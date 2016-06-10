@@ -5,10 +5,12 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'http://www.the-grid.space/'
-datePublished: '2016-06-10T02:29:40.817Z'
-dateModified: '2016-06-10T02:29:04.176Z'
+datePublished: '2016-06-10T02:49:16.255Z'
+dateModified: '2016-06-10T02:49:06.410Z'
 title: My Grid Space
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-06-09-my-grid-space.md
 authors: []
 publisher: null
