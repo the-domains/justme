@@ -4,8 +4,15 @@
         <description><![CDATA[justme]]></description>
         <link>https://thegrid.ai/justme/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 11 Jun 2016 16:14:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2016 03:24:51 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/justme/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Francesca and Mimi]]></title>
+            <description><![CDATA[<article><h1>Francesca and Mimi</h1><p>https://youtu.be/Izoov-miNZw</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ec46a5c6fdf65d8f9ea521d4a45eb2ef645a6e89.jpg"></article>]]></description>
+            <link>https://youtu.be/Izoov-miNZw</link>
+            <guid isPermaLink="false">04655601-4c4e-48bd-ad50-8f3574e4ad7f</guid>
+            <pubDate>Mon, 13 Jun 2016 03:24:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/059e995a-7086-4fdb-8ecb-3c3c1369e5f2.png">]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=uGt9h2dwLq0&amp;feature=youtu.be</link>
             <guid isPermaLink="false">02dd11d8-ac80-49ff-bf54-939b6a199b2c</guid>
             <pubDate>Sun, 22 May 2016 22:13:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[May 12, 2016]]></title>
-            <description><![CDATA[<article><h1>May 12, 2016</h1><p>Uploaded by Smartphone Minimalist on 2016-05-12.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a42ff4e23926647b6de1c03f0a3bd118bb70b00c.jpg"></article>]]></description>
-            <link>https://youtu.be/thKyVIVBy7E</link>
-            <guid isPermaLink="false">190789c8-e0d5-48b4-9c39-e2f309fd42ca</guid>
-            <pubDate>Thu, 12 May 2016 10:21:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
