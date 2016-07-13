@@ -4,8 +4,15 @@
         <description><![CDATA[justme]]></description>
         <link>https://thegrid.ai/justme/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Jul 2016 03:32:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2016 01:07:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/justme/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Winding down time after a day on the beach...]]></title>
+            <description><![CDATA[<article><h1>Winding down time after a day on the beach...</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b3f51d00-56e4-4cfa-bfd7-0e53326cc68c.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/b3f51d00-56e4-4cfa-bfd7-0e53326cc68c.jpg</link>
+            <guid isPermaLink="false">2acb9e8c-5b5f-4e21-a3fa-f3a685af7b1c</guid>
+            <pubDate>Wed, 13 Jul 2016 01:07:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Cesca]]></title>
             <description><![CDATA[<article><h1>Cesca</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/461eabda-e818-4df3-932f-49955a952ef7.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/justme/refugee/index.html</link>
             <guid isPermaLink="false">fa359cff-b78b-467f-afb2-368a1eef5c46</guid>
             <pubDate>Tue, 21 Jun 2016 00:09:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[elon musk...simulated universe...you gotta be kidding me]]></title>
-            <description><![CDATA[<article><h1>elon musk...simulated universe...you gotta be kidding me</h1><p>How can someone entertain the thought that we are all part of a simulation ? </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/439100d9-d95c-4420-a651-7f547c458b68.jpg"></article>]]></description>
-            <link>http://motherboard.vice.com/read/elon-musk-simulated-universe-hypothesis</link>
-            <guid isPermaLink="false">f87eb3a4-a48d-4a23-b175-90a5b5bb7044</guid>
-            <pubDate>Fri, 17 Jun 2016 22:54:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
