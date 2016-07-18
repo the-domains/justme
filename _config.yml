@@ -1,7 +1,35 @@
-name: justme
-favicon: null
-layout_spectrum: 0.14
 typography_spectrum: 0.636849345639348
+color:
+  brandColors:
+    - '#105B63'
+    - '#FFFAD5'
+    - '#FFD34E'
+    - '#DB9E36'
+    - '#BD4932'
+  brandStrength: 0.32805652474053204
+  lightness: 0.8933781469240785
+  saturation: 0.5798753954004496
+  rhythmicContrast: 0.2027571266517043
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.14
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: justme
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - id: 'https://thegrid.ai/one-earth-challanged/'
+    url: 'https://thegrid.ai/one-earth-challanged/'
+    name: One.Earth Challange
+    type: external
+favicon: null
 collections:
   - index:
       path: /
@@ -14,27 +42,4 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#105B63'
-    - '#FFFAD5'
-    - '#FFD34E'
-    - '#DB9E36'
-    - '#BD4932'
-  brandStrength: 0.32805652474053204
-  lightness: 0.8933781469240785
-  saturation: 0.5798753954004496
-  rhythmicContrast: 0.2027571266517043
 purpose: []
