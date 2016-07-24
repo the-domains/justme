@@ -4,8 +4,15 @@
         <description><![CDATA[justme]]></description>
         <link>https://thegrid.ai/justme/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Jul 2016 23:50:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2016 00:00:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/justme/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>I really would like my ios app back to the previous version. I know better things are on the horizon as well. I like where things are going but I am not at my home desk very much of the day...day job yah know.</p>]]></description>
+            <link>https://thegrid.ai/justme/i-really-would-like-my-ios-app-back-to-the-previous-version/index.html</link>
+            <guid isPermaLink="false">59789a8a-9908-40d9-9b89-5748718d0baf</guid>
+            <pubDate>Sun, 24 Jul 2016 00:00:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[With Music]]></title>
             <description><![CDATA[<article><h1>With Music</h1><p>Uploaded by Smartphone Minimalist on 2016-05-21.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/db100e028df6b8a2cdc74cbf53f6c82e64cb9b7c.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/461eabda-e818-4df3-932f-49955a952ef7.jpg</link>
             <guid isPermaLink="false">d99444b7-8866-47f5-af9c-d89eb600f456</guid>
             <pubDate>Wed, 06 Jul 2016 03:32:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Auntie Tricia...holding a diaper full 😇]]></title>
-            <description><![CDATA[<article><h1>Auntie Tricia...holding a diaper full 😇</h1><p>Loving the hold 😊</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5d461476-ac13-43f1-9ace-016af557b50d.jpg"></article>]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/5d461476-ac13-43f1-9ace-016af557b50d.jpg</link>
-            <guid isPermaLink="false">11d39234-426c-4953-9ebc-a36fb762b69c</guid>
-            <pubDate>Tue, 28 Jun 2016 15:44:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
