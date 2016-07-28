@@ -4,7 +4,7 @@
         <description><![CDATA[justme]]></description>
         <link>https://thegrid.ai/justme/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Jul 2016 17:38:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2016 17:38:27 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/justme/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[A cool day to start...]]></title>
@@ -40,13 +40,6 @@
             <link>https://www.youtube.com/watch?v=G-8YL2Ffcac&amp;feature=share</link>
             <guid isPermaLink="false">0476bd5b-01cf-41dd-b173-00e0c6de5593</guid>
             <pubDate>Sat, 23 Jul 2016 23:33:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Summer is time for the beach...]]></title>
-            <description><![CDATA[<article><h1>Summer is time for the beach...</h1><p>http://www.huffingtonpost.com/entry/sand-and-stars-top-10-beachside-campsites_us_577e61bbe4b03288ddc57466</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/80690b67-e98b-4054-88db-b2eb3b1cdb3c.jpg"></article>]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/80690b67-e98b-4054-88db-b2eb3b1cdb3c.jpg</link>
-            <guid isPermaLink="false">b68cf00a-7993-460c-b438-2f9196604d76</guid>
-            <pubDate>Fri, 22 Jul 2016 12:01:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
