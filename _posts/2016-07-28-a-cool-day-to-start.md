@@ -1,8 +1,8 @@
 ---
 author: []
-dateModified: '2016-07-28T23:10:37.191Z'
-datePublished: '2016-07-28T23:10:52.996Z'
-description: ''
+dateModified: '2016-07-28T23:28:15.158Z'
+datePublished: '2016-07-28T23:28:29.456Z'
+description: A cool day to start
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/3384f89a-b7e7-4d7d-a011-2440fc295ef1.jpg
 publisher:
@@ -17,7 +17,7 @@ inNav: false
 _type: MediaObject
 
 ---
-A cool day to start...
+A cool day to start
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3384f89a-b7e7-4d7d-a011-2440fc295ef1.jpg)
 
 # A cool day to start...
