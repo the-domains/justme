@@ -1,25 +1,22 @@
 ---
-author: []
-dateModified: '2016-07-28T23:28:15.158Z'
-datePublished: '2016-07-28T23:28:29.456Z'
-description: A cool day to start
+datePublished: '2016-07-29T10:44:38.823Z'
+sourcePath: _posts/2016-07-28-a-cool-day-to-start.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/3384f89a-b7e7-4d7d-a011-2440fc295ef1.jpg
+author: []
+via: {}
+dateModified: '2016-07-29T10:44:38.559Z'
+title: A cool day to start...
 publisher:
   name: RickO
-title: A cool day to start...
-via: {}
+description: A beautiful cool morning. Keri is out with the girls before it gets to hot.
 starred: false
-sourcePath: _posts/2016-07-28-a-cool-day-to-start.md
 inFeed: true
 hasPage: false
 inNav: false
 _type: MediaObject
 
 ---
-A cool day to start
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3384f89a-b7e7-4d7d-a011-2440fc295ef1.jpg)
-
 # A cool day to start...
 
 A beautiful cool morning. Keri is out with the girls before it gets to hot.
