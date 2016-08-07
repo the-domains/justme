@@ -25,9 +25,8 @@ cta:
   bucket: null
   version: null
 navigation:
-  - id: 'https://thegrid.ai/one-earth-community/'
+  - name: 'Back to One Earth Community '
     url: 'https://thegrid.ai/one-earth-community/'
-    name: 'Back to One Earth Community '
     type: external
 favicon: null
 collections:
@@ -42,4 +41,5 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+description: Me and You
 purpose: []
