@@ -4,8 +4,15 @@
         <description><![CDATA[justme]]></description>
         <link>https://thegrid.ai/justme/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 16 Aug 2016 01:03:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2016 01:04:25 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/justme/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[thats cool...]]></title>
+            <description><![CDATA[<article><h1>thats cool...</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6f69a50c-e2e8-47af-821c-2d69e9261413.jpg"></article>]]></description>
+            <link>https://thegrid.ai/justme/thats-cool/index.html</link>
+            <guid isPermaLink="false">c06bee17-e397-4c99-aad2-d616893cbee4</guid>
+            <pubDate>Tue, 16 Aug 2016 01:04:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[loving the fountains]]></title>
             <description><![CDATA[<article><h1>loving the fountains</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/955cf465-ea17-4b01-86be-a436643f6b1a.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.one-earth.community/rickandjoan/on-the-lake-other-things/</link>
             <guid isPermaLink="false">c0eb8385-cbb4-4a5a-8980-5c6f2a8499d2</guid>
             <pubDate>Mon, 01 Aug 2016 18:35:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Me and my dad]]></title>
-            <description><![CDATA[<article><h1>Me and my dad</h1><p>Couple of weeks ago I took the week off to do projects around the house. Wound up between two main objectives so I chose the one that produced the most visible results and required operating equipment... We wound up with two full sized pick up truck loads to go up the mountain.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d52fb29a7b3bdcbca5821559257b670adf5ce00b.jpg"></article>]]></description>
-            <link>http://www.one-earth.community/rickandjoan/me-and-dad/</link>
-            <guid isPermaLink="false">ff69e086-e497-4cfe-a3dc-b354354a3cef</guid>
-            <pubDate>Mon, 01 Aug 2016 16:44:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
