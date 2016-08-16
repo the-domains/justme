@@ -4,8 +4,15 @@
         <description><![CDATA[justme]]></description>
         <link>https://thegrid.ai/justme/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 16 Aug 2016 00:57:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2016 01:03:15 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/justme/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[loving the fountains]]></title>
+            <description><![CDATA[<article><h1>loving the fountains</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/955cf465-ea17-4b01-86be-a436643f6b1a.jpg"></article>]]></description>
+            <link>https://thegrid.ai/justme/loving-the-fountains/index.html</link>
+            <guid isPermaLink="false">e2e2c3a4-da59-41c2-b4c0-cfff7e10ba7a</guid>
+            <pubDate>Tue, 16 Aug 2016 01:03:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[me and mom at the pool]]></title>
             <description><![CDATA[<article><h1>me and mom at the pool</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ec32a702-3d88-428c-aa7a-40d702263726.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.one-earth.community/rickandjoan/me-and-dad/</link>
             <guid isPermaLink="false">ff69e086-e497-4cfe-a3dc-b354354a3cef</guid>
             <pubDate>Mon, 01 Aug 2016 16:44:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Enjoying my day]]></title>
-            <description><![CDATA[<article><h1>Enjoying my day</h1><p>Just sitting out front on the porch waiting for my mom and sister. I believe were going to take a walk this afternoon.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/acd80e8e-1a6f-4194-bd0a-b226f0e2aea9.jpg"></article>]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/acd80e8e-1a6f-4194-bd0a-b226f0e2aea9.jpg</link>
-            <guid isPermaLink="false">a3c8abc2-9607-496e-9ba1-b0a21065e92a</guid>
-            <pubDate>Mon, 01 Aug 2016 15:48:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
