@@ -28,6 +28,9 @@ navigation:
   - name: 'Back to One Earth Community '
     url: 'https://thegrid.ai/one-earth-community/'
     type: external
+  - name: login
+    url: 'https://testing.thegrid.io/app'
+    type: external
 favicon: null
 collections:
   - index:
