@@ -1,37 +1,29 @@
-purpose: []
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-description: Me and You
+typography_spectrum: 0.900226762983948
 color:
-  saturation: 0.04430274572223425
-  brandStrength: 0.46961465687491
-  rhythmicContrast: 0.6712554786354303
   brandColors:
     - '#105B63'
     - '#FFFAD5'
     - '#FFD34E'
     - '#DB9E36'
     - '#BD4932'
-  lightness: 0.03488297038711607
-cta:
-  bucket: null
-  version: null
-  domain: null
+  brandStrength: 0.46961465687491
+  lightness: 0.034882970387116075
+  saturation: 0.04430274572223425
+  rhythmicContrast: 0.6712554786354303
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.9222268206067383
 analytics:
-  twitter: null
   google: null
   facebook: null
-favicon: null
+  twitter: null
+name: justme
+cta:
+  domain: null
+  bucket: null
+  version: null
 navigation:
   - name: 'Back to One Earth Community '
     url: 'https://thegrid.ai/one-earth-community/'
@@ -39,10 +31,21 @@ navigation:
   - name: login
     url: 'https://testing.thegrid.io/app'
     type: external
-name: justme
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.900226762983948
-layout_spectrum: 0.8329753
+  - name: my photos
+    url: 'http://www.one-earthcommunity.photography/'
+    type: external
+favicon: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+    permalink:
+      path: '/:title/'
+description: Me and You
+purpose: []
