@@ -19,6 +19,8 @@ analytics:
   google: null
   facebook: null
   twitter: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/04bc7ac0-3191-421e-bbe8-b004d2a10c65.png
 name: justme
 cta:
   domain: null
@@ -34,7 +36,8 @@ navigation:
   - name: my photos
     url: 'http://www.one-earthcommunity.photography/'
     type: external
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/36aab223-517e-42b8-976b-e3c4adb85256.png
 collections:
   - index:
       path: /
