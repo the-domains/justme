@@ -1,31 +1,39 @@
-layout_spectrum: 0.1642357788514346
-typography_spectrum: 0.12984203919768333
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+description: ''
 color:
+  saturation: 0.04430274572223425
+  brandStrength: 0.46961465687491
+  rhythmicContrast: 0.6712554786354303
   brandColors:
     - '#105B63'
     - '#FFFAD5'
     - '#FFD34E'
     - '#DB9E36'
     - '#BD4932'
-  brandStrength: 0.46961465687491
-  lightness: 0.034882970387116075
-  saturation: 0.04430274572223425
-  rhythmicContrast: 0.6712554786354303
-opengraph:
-  image: null
-  type: null
-  appId: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/04bc7ac0-3191-421e-bbe8-b004d2a10c65.png
-name: justme
+  lightness: 0.03488297038711607
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: justme
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/36aab223-517e-42b8-976b-e3c4adb85256.png
 navigation:
   - name: 'Back to One Earth Community '
     url: 'https://thegrid.ai/one-earth-community/'
@@ -36,19 +44,11 @@ navigation:
   - name: my photos
     url: 'http://www.one-earthcommunity.photography/'
     type: external
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/36aab223-517e-42b8-976b-e3c4adb85256.png
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-    permalink:
-      path: '/:title/'
-description: ''
-purpose: []
+opengraph:
+  image: null
+  type: null
+  appId: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/04bc7ac0-3191-421e-bbe8-b004d2a10c65.png
+typography_spectrum: 0.1298420391976833
+layout_spectrum: 0.2905478
