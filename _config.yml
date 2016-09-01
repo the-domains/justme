@@ -5,12 +5,12 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 description: ''
 color:
   saturation: 0.04430274572223425
@@ -23,17 +23,6 @@ color:
     - '#DB9E36'
     - '#BD4932'
   lightness: 0.03488297038711607
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: justme
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/36aab223-517e-42b8-976b-e3c4adb85256.png
 navigation:
   - name: 'Back to One Earth Community '
     url: 'https://thegrid.ai/one-earth-community/'
@@ -44,6 +33,17 @@ navigation:
   - name: my photos
     url: 'http://www.one-earthcommunity.photography/'
     type: external
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/36aab223-517e-42b8-976b-e3c4adb85256.png
+cta:
+  bucket: null
+  version: null
+  domain: null
+name: justme
 opengraph:
   image: null
   type: null
@@ -51,4 +51,4 @@ opengraph:
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/04bc7ac0-3191-421e-bbe8-b004d2a10c65.png
 typography_spectrum: 0.1298420391976833
-layout_spectrum: 0.2905478
+layout_spectrum: 0.359291
