@@ -1,4 +1,43 @@
-purpose: []
+typography_spectrum: 0.1298420391976833
+color:
+  saturation: 0.04430274572223425
+  brandStrength: 0.46961465687491
+  rhythmicContrast: 0.6712554786354303
+  brandColors:
+    - '#105B63'
+    - '#FFFAD5'
+    - '#FFD34E'
+    - '#DB9E36'
+    - '#BD4932'
+  lightness: 0.03488297038711607
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.320623
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/04bc7ac0-3191-421e-bbe8-b004d2a10c65.png
+name: justme
+cta:
+  bucket: null
+  version: null
+  domain: null
+navigation:
+  - name: 'One Earth Community '
+    url: 'https://thegrid.ai/one-earth-community/'
+    type: external
+  - name: login
+    url: 'https://testing.thegrid.io/app'
+    type: external
+  - name: my photos
+    url: 'http://www.one-earthcommunity.photography/'
+    type: external
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/36aab223-517e-42b8-976b-e3c4adb85256.png
 collections:
   - index:
       path: /
@@ -12,43 +51,4 @@ collections:
     permalink:
       path: '/:title/'
 description: ''
-color:
-  saturation: 0.04430274572223425
-  brandStrength: 0.46961465687491
-  rhythmicContrast: 0.6712554786354303
-  brandColors:
-    - '#105B63'
-    - '#FFFAD5'
-    - '#FFD34E'
-    - '#DB9E36'
-    - '#BD4932'
-  lightness: 0.03488297038711607
-navigation:
-  - name: 'Back to One Earth Community '
-    url: 'https://thegrid.ai/one-earth-community/'
-    type: external
-  - name: login
-    url: 'https://testing.thegrid.io/app'
-    type: external
-  - name: my photos
-    url: 'http://www.one-earthcommunity.photography/'
-    type: external
-cta:
-  bucket: null
-  version: null
-  domain: null
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/36aab223-517e-42b8-976b-e3c4adb85256.png
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: justme
-opengraph:
-  image: null
-  type: null
-  appId: null
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/04bc7ac0-3191-421e-bbe8-b004d2a10c65.png
-typography_spectrum: 0.1298420391976833
-layout_spectrum: 0.320623
+purpose: []
