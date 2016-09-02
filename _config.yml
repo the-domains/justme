@@ -5,12 +5,12 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 description: ''
 color:
   saturation: 0.04430274572223425
@@ -37,13 +37,13 @@ cta:
   bucket: null
   version: null
   domain: null
-name: justme
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/36aab223-517e-42b8-976b-e3c4adb85256.png
 analytics:
   twitter: null
   google: null
   facebook: null
+name: justme
 opengraph:
   image: null
   type: null
@@ -51,4 +51,4 @@ opengraph:
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/04bc7ac0-3191-421e-bbe8-b004d2a10c65.png
 typography_spectrum: 0.1298420391976833
-layout_spectrum: 0.4237379
+layout_spectrum: 0.320623
