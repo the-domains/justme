@@ -30,11 +30,11 @@ navigation:
   - name: 'One Earth Community '
     url: 'https://thegrid.ai/one-earth-community/'
     type: external
-  - name: login
-    url: 'https://testing.thegrid.io/app'
-    type: external
   - name: my photos
     url: 'http://www.one-earthcommunity.photography/'
+    type: external
+  - name: login
+    url: 'https://testing.thegrid.io/app'
     type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/36aab223-517e-42b8-976b-e3c4adb85256.png
