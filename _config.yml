@@ -1,4 +1,3 @@
-layout_spectrum: 0.16111364727839828
 typography_spectrum: 0.1298420391976833
 color:
   saturation: 0.04430274572223425
@@ -15,12 +14,13 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.16111364727839828
 analytics:
   twitter: null
   google: null
   facebook: null
 logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/04bc7ac0-3191-421e-bbe8-b004d2a10c65.png
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/6b47536f-87d0-42df-ada2-399784ed2618.png
 name: justme
 cta:
   bucket: null
